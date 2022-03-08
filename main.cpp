@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 //#include <random>
 //#include <time.h>
 
@@ -7,11 +8,11 @@ into actual first and last names
 */
 
 string names (int firstname_length, int lastname_length){
-  char first_name [10] = {"Jazlene","Fernanda","Jaylynn",
+  string first_name [10] = {"Jazlene","Fernanda","Jaylynn",
                         "Ryann","Noah","Camden","Rhianna",
                          "Gabrielle","Jenny","Emanuel"};
 
-  char last_name [10] = {"Ortiz","Morton","Moody",
+  string last_name [10] = {"Ortiz","Morton","Moody",
                          "Rocha","Murray","Stewart",
                         "Franco","Lutz","Barber","Wang"};
 }
