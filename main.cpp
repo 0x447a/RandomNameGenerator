@@ -3,7 +3,7 @@
 //#include <random>
 //#include <time.h>
 
-/*this right here is supposed to be the first and last names that it's supposed to take and organize
+/*these are supposed to be the first and last names that are supposed to be organized
 into actual first and last names
 */
 
